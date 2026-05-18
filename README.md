@@ -31,8 +31,10 @@ This project analyzes Blinkit's delivery operations, customer satisfaction, and 
 - Interactive slicers
 
 ## Key Insights
-- On-time deliveries receive higher customer ratings.
-- Instant & Frozen Food is the top-performing category.
-- Slight delivery delays negatively affect customer satisfaction.
+
+- Delayed deliveries negatively impact customer ratings.
+- Product categories contribute unevenly to order volume.
+- Customer sentiment varies significantly across delivery statuses.
+- Operational efficiency directly affects customer experience.
 
 ## Dashboard Preview
