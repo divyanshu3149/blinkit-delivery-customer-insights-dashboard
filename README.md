@@ -83,7 +83,7 @@ blinkit-delivery-customer-insights-dashboard/
 
 ## Dashboard Preview
 
-images/Blinkit_Dashboard.pbix.png
+![Dashboard Preview](images/Blinkit_Dashboard.pbix.png)
 
 ---
 
