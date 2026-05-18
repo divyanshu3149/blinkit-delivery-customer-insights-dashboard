@@ -38,3 +38,4 @@ This project analyzes Blinkit's delivery operations, customer satisfaction, and 
 - Operational efficiency directly affects customer experience.
 
 ## Dashboard Preview
+dashboard.png
